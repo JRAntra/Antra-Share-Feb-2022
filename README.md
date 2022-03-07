@@ -1,7 +1,7 @@
 # Antra-Share-Feb-2022
 AntraShare Project
 
-This is a repo to giving demo for Git
+This is a repo to giving demo for Git (new changes)
 
 ## How to record your Antra Share assignments by using this repo:
 
